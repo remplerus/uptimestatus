@@ -59,16 +59,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "hytale",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "0.32%",
+    "uptimeDay": "0.32%",
+    "uptimeWeek": "0.32%",
+    "uptimeMonth": "0.32%",
+    "uptimeYear": "0.32%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-03-20": 0
+    }
   }
 ]
