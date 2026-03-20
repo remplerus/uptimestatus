@@ -12,7 +12,7 @@ sites:
   - name: Hytale
     url: play.rempler.com
     port: 5520
-    check: "udp-ping"
+    check: "tcp-ping"
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
