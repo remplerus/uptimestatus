@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/rempler.com.ico",
     "slug": "homepage",
     "status": "up",
-    "uptime": "49.12%",
-    "uptimeDay": "49.12%",
-    "uptimeWeek": "49.12%",
-    "uptimeMonth": "49.12%",
-    "uptimeYear": "49.12%",
+    "uptime": "55.68%",
+    "uptimeDay": "55.68%",
+    "uptimeWeek": "55.68%",
+    "uptimeMonth": "55.68%",
+    "uptimeYear": "55.68%",
     "time": 509,
     "timeDay": 509,
     "timeWeek": 509,
     "timeMonth": 509,
     "timeYear": 509,
     "dailyMinutesDown": {
-      "2026-03-20": 217
+      "2026-03-20": 206
     }
   },
   {
@@ -72,7 +72,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-03-20": 428
+      "2026-03-21": 33,
+      "2026-03-20": 433
     }
   }
 ]
