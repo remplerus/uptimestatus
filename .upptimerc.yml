@@ -20,9 +20,11 @@ sites:
     type: globalping
     location: Berlin
   - name: Hytale
-    url: play.rempler.com
-    check: "icmp-ping"
-    port: 5520
+    url: https://panel.rempler.com/api/client/servers/f553c931/resources
+    headers:
+    - "Authorization: Bearer $PTERODACTYL_API_KEY"
+    - "Accept: application/json"
+    __dangerous__body_down_if_text_missing: '"current_state":"running"'
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
