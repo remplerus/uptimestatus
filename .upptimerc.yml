@@ -25,6 +25,8 @@ sites:
     - "Authorization: Bearer $PTERODACTYL_API_KEY"
     - "Accept: application/json"
     __dangerous__body_down_if_text_missing: '"current_state":"running"'
+    type: globalping
+    location: Berlin
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
