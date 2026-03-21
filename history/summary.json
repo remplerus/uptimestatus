@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/rempler.com.ico",
     "slug": "homepage",
     "status": "up",
-    "uptime": "52.98%",
-    "uptimeDay": "52.98%",
-    "uptimeWeek": "52.98%",
-    "uptimeMonth": "52.98%",
-    "uptimeYear": "52.98%",
-    "time": 524,
-    "timeDay": 524,
-    "timeWeek": 524,
-    "timeMonth": 524,
-    "timeYear": 524,
+    "uptime": "54.85%",
+    "uptimeDay": "54.85%",
+    "uptimeWeek": "54.85%",
+    "uptimeMonth": "54.85%",
+    "uptimeYear": "54.85%",
+    "time": 508,
+    "timeDay": 508,
+    "timeWeek": 508,
+    "timeMonth": 508,
+    "timeYear": 508,
     "dailyMinutesDown": {
-      "2026-03-21": 252,
+      "2026-03-21": 240,
       "2026-03-20": 206
     }
   },
@@ -31,11 +31,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 444,
-    "timeDay": 444,
-    "timeWeek": 444,
-    "timeMonth": 444,
-    "timeYear": 444,
+    "time": 353,
+    "timeDay": 353,
+    "timeWeek": 353,
+    "timeMonth": 353,
+    "timeYear": 353,
     "dailyMinutesDown": {}
   },
   {
@@ -49,11 +49,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 430,
-    "timeDay": 430,
-    "timeWeek": 430,
-    "timeMonth": 430,
-    "timeYear": 430,
+    "time": 338,
+    "timeDay": 338,
+    "timeWeek": 338,
+    "timeMonth": 338,
+    "timeYear": 338,
     "dailyMinutesDown": {}
   },
   {
@@ -73,7 +73,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-03-21": 543,
+      "2026-03-21": 556,
       "2026-03-20": 433
     }
   }
