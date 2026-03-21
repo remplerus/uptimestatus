@@ -34,7 +34,7 @@ status-website:
   cname: status.rempler.com
   # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Remplers Uptime
+  name: Remplers Uptimes
   navbar:
     - title: Status
       href: /
