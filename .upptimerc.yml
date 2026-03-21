@@ -22,8 +22,6 @@ sites:
   - name: Hytale
     url: play.rempler.com
     check: "icmp-ping"
-    type: globalping
-    location: Berlin
     port: 5520
 
 status-website:
