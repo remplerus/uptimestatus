@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/rempler.com.ico",
     "slug": "homepage",
     "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
+    "uptime": "93.87%",
+    "uptimeDay": "93.87%",
+    "uptimeWeek": "93.87%",
+    "uptimeMonth": "93.87%",
+    "uptimeYear": "93.87%",
     "time": 426,
     "timeDay": 327,
     "timeWeek": 426,
     "timeMonth": 426,
     "timeYear": 426,
     "dailyMinutesDown": {
-      "2026-03-22": 0
+      "2026-03-22": 64
     }
   },
   {
@@ -25,18 +25,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/panel.rempler.com.ico",
     "slug": "panel",
     "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
+    "uptime": "93.87%",
+    "uptimeDay": "93.87%",
+    "uptimeWeek": "93.87%",
+    "uptimeMonth": "93.87%",
+    "uptimeYear": "93.87%",
     "time": 175,
     "timeDay": 74,
     "timeWeek": 175,
     "timeMonth": 175,
     "timeYear": 175,
     "dailyMinutesDown": {
-      "2026-03-22": 0
+      "2026-03-22": 64
     }
   },
   {
@@ -44,19 +44,19 @@
     "url": "https://maven.rempler.com",
     "icon": "https://icons.duckduckgo.com/ip3/maven.rempler.com.ico",
     "slug": "maven",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 167,
-    "timeDay": 68,
-    "timeWeek": 167,
-    "timeMonth": 167,
-    "timeYear": 167,
+    "status": "up",
+    "uptime": "93.87%",
+    "uptimeDay": "93.87%",
+    "uptimeWeek": "93.87%",
+    "uptimeMonth": "93.87%",
+    "uptimeYear": "93.87%",
+    "time": 157,
+    "timeDay": 66,
+    "timeWeek": 157,
+    "timeMonth": 157,
+    "timeYear": 157,
     "dailyMinutesDown": {
-      "2026-03-22": 0
+      "2026-03-22": 64
     }
   },
   {
@@ -64,19 +64,19 @@
     "url": "https://panel.rempler.com/api/client/servers/f553c931/resources",
     "icon": "https://icons.duckduckgo.com/ip3/panel.rempler.com.ico",
     "slug": "hytale",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 252,
-    "timeDay": 252,
-    "timeWeek": 252,
-    "timeMonth": 252,
-    "timeYear": 252,
+    "status": "up",
+    "uptime": "93.87%",
+    "uptimeDay": "93.87%",
+    "uptimeWeek": "93.87%",
+    "uptimeMonth": "93.87%",
+    "uptimeYear": "93.87%",
+    "time": 236,
+    "timeDay": 236,
+    "timeWeek": 236,
+    "timeMonth": 236,
+    "timeYear": 236,
     "dailyMinutesDown": {
-      "2026-03-22": 0
+      "2026-03-22": 64
     }
   }
 ]
