@@ -1,7 +1,7 @@
 url: https://panel.rempler.com/api/client/servers/f553c931/resources
-status: up
-code: 200
-responseTime: 136
-lastUpdated: 2026-05-02T23:21:31.130Z
+status: down
+code: 403
+responseTime: 0
+lastUpdated: 2026-05-03T07:26:04.924Z
 startTime: 2026-03-21T10:12:42.508Z
 generator: Upptime <https://github.com/upptime/upptime>
