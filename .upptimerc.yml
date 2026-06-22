@@ -4,28 +4,20 @@ repo: uptimestatus
 sites:
   - name: Homepage
     url: https://rempler.com
-    type: globalping
-    location: Berlin
     expectedStatusCodes:
     - 200
     - 201
     - 403
   - name: Panel
     url: https://panel.rempler.com
-    type: globalping
-    location: Berlin
   - name: Maven
     url: https://maven.rempler.com
-    type: globalping
-    location: Berlin
   - name: Hytale
     url: https://panel.rempler.com/api/client/servers/f553c931-cded-45f5-ac29-0b19cb447c6d/resources
     headers:
     - "Authorization: Bearer $CALAGOPUS_API_KEY"
     - "Accept: application/json"
     __dangerous__body_down_if_text_missing: '"state":"running"'
-    type: globalping
-    location: Berlin
     icon: https://hytale.com/favicon.ico
 status-website:
   cname: status.rempler.com
